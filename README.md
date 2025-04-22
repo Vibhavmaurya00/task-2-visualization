@@ -1,4 +1,6 @@
-The Rise and Fall of Mandalay
+
+Tool Used: Microsoft Power BI
+
 
 The story begins in Mandalay, a city that once shone brightly in the company's sales reports. The charts show a high "Count of City and Sum of Sales," with Mandalay leading the pack. The "Sum of gross margin percentage" is also significant, indicating a healthy profit margin from this city. The company's success in Mandalay seemed unstoppable.
 
